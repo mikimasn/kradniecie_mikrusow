@@ -2,9 +2,9 @@ const https = require('https');
 const notifier = require('node-notifier');
 const path = require('path');
 const options = {
-  hostname: 'mikr.us',
+  hostname: 'pastebin.com',
   port: 443,
-  path: '/recykling.txt',
+  path: '/raw/cRgE07hM',
   method: 'GET'
 }
 
